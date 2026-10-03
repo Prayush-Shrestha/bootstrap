@@ -1,0 +1,12 @@
+.carousel-item img{
+    height: 80vh;
+    object-fit: cover;
+}
+.carousel{
+    width: 90%;
+    margin: auto;
+}
+.card img{
+    height: 200px;
+    object-fit: contain;
+}
